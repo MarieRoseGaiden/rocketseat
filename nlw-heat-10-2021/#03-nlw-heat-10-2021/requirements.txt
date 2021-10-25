@@ -1,4 +1,0 @@
-HTML
-HYPERTEXT(text with links) 
-MARKUP(tags) 
-LANGUAGE(languages rules)
